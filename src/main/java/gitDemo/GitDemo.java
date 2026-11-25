@@ -10,5 +10,6 @@ public class GitDemo {
     static void main() {
         System.out.println("I am learning git command ");
         System.out.println("This is feeling good!!!");
+        System.out.println("I like Java");
     }
 }
